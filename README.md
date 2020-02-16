@@ -1,2 +1,4 @@
 # Title-URL-Copy
-Copy website info to Clipboard
+GreaseMonkey用スクリプト
+
+ページタイトルとURLをいい感じにクリップボードにコピーしてくれます。デフォルトはCommand + U
